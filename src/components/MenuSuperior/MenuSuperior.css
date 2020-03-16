@@ -1,0 +1,6 @@
+.sidebar_background{
+    /* height: 100%; */
+    /* width: 100%; */
+    background-image: linear-gradient(to right, white, rgb(199, 199, 199) 130%);
+    background-size: cover;
+}
